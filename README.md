@@ -1,2 +1,2 @@
 # jgunson.com
-Single page. 100% HTML. AMP Ready ⚡️. Nuff said.
+Single page. 100% HTML. AMP Ready ⚡️. Nuff' said.
